@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-revenue-recognition-flutter",
+  "capabilityKey": "liberusoftware/module-accounting-revenue-recognition",
+  "presentation": "mobile-flutter",
+  "package": "module_accounting_revenue_recognition_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/revenue-recognition.md",
+  "presentationPlan": "projects/accounting/flutter/revenue-recognition.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
